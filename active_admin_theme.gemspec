@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["igor.f@didww.com", "alex.s@didww.com"]
   spec.summary       = %q{Flat design for ActiveAdmin}
   spec.description   = %q{Flat design for activeadmin gem }
-  spec.homepage      = "https://github.com/didww/active_admin_theme"
+  spec.homepage      = "https://github.com/JackTing/active_admin_theme"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
